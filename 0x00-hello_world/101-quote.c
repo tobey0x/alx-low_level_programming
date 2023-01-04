@@ -1,7 +1,7 @@
 #include <unistd.h>
 /**
   * main - entry point
-  * return 1 for success
+  * Return: Always  1 (success)
 */
 int main(void)
 {
