@@ -1,7 +1,6 @@
 #include <unistd.h>
 /**
   * main - entry point
-  *
   * return 1 for success
 */
 int main(void)
